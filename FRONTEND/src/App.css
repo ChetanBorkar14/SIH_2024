@@ -9,12 +9,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 40px;
+  padding: 10px 40px;
   background-color: #e6e3e3;
 }
 
 .logo {
-  height: 55px;
+  height: 65px;
   overflow: hidden;
 }
 
