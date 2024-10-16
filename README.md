@@ -75,3 +75,8 @@ To set up this project locally, follow these steps:
 
 We have integrated blockchain technology using the Ethereum network and smart contracts developed in Solidity.
 
+## Platform Overview 
+
+![image](https://github.com/user-attachments/assets/1460b791-5c5f-45b9-a552-41a94d5430b9)
+
+
